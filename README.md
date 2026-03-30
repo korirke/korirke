@@ -44,11 +44,11 @@ Hey there! I'm Kelvin, a passionate full-stack developer and AI enthusiast who b
 
 ## 🌟 GitHub Highlights
 
-![GitHub Metrics](https://raw.githubusercontent.com/kiprutokels/kiprutokels/main/github-metrics.svg)
+![GitHub Metrics](https://raw.githubusercontent.com/kiprutokels/korirke/main/github-metrics.svg)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kiprutokels&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=korirke&theme=tokyo-night)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kiprutokels&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=korirke&theme=tokyonight&hide_border=true)
 
 ![Followers](https://img.shields.io/github/followers/kiprutokels?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/kiprutokels?style=for-the-badge)
