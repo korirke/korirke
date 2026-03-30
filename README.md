@@ -50,8 +50,8 @@ Hey there! I'm Kelvin, a passionate full-stack developer and AI enthusiast who b
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=korirke&theme=tokyonight&hide_border=true)
 
-![Followers](https://img.shields.io/github/followers/kiprutokels?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/kiprutokels?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/korirke?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/korirke?style=for-the-badge)
 
 
 🚀 **Let's Connect & Create**
