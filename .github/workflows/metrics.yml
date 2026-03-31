@@ -15,7 +15,7 @@ jobs:
       - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: kiprutokels
+          user: korirke
 
           template: classic
           base: header, repositories, community
